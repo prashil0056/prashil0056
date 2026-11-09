@@ -1,62 +1,100 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
-  <img src="assets/hero.svg" alt="Prashil Gajbhiye" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:FFD700&height=220&section=header&text=Prashil%20Gajbhiye&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%" alt="Prashil Gajbhiye banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=CSE+Student;Open+Source+Contributor;Learning+Go;C%2B%2B+%7C+JS+%7C+Python" alt="Typing animation" />
 </div>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 👨‍💻 About Me
+
+I'm a first-year CSE student at Mirai School of Technology, Bengaluru. I build things and ship small, tested changes to open-source projects — mostly documentation and tooling while I learn the deeper parts of the codebase.
+
+Currently learning Go and working on a music player site that pulls from an API.
+
+</td>
+<td width="35%" align="center" valign="top">
+
+## 🔗 Connect
+
+<a href="https://github.com/prashil0056">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/>
 
-First-year CSE at **Mirai School of Technology, Bengaluru**. I ship small, tested changes to open-source projects — mostly documentation and tooling while I learn the deeper parts of the codebase.
+<a href="https://www.linkedin.com/in/prashil-gajbhiye-714b10434">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Currently learning **Go** and reading my way through Meshery's server code.
+<br/><br/>
 
----
+Let's build something. 🏴‍☠️
 
-### 🏴‍☠️ merged so far
-
-**[meshery/meshery](https://github.com/meshery/meshery/pull/23046)** — added `scannedFiles` reporting to the MUI audit script (`ui/scripts/audit-mui.js`), with a test covering unreadable-file exclusion and per-scan aggregation.
-
-**[layer5io/layer5](https://github.com/layer5io/layer5/pull/8328)** — created the community member profile for Ankit Rewar, following the existing member schema.
-
-Both reviewed, both with green CI.
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚓ stack
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashil0056&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prashil0056&theme=tokyonight" height="165" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=prashil0056&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-### 🧭 the log
+<!-- ================= BADGES ================= -->
+
+## 🏅 Badges
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashil0056&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=DC143C&text_color=F8F0F3&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashil0056&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=F8F0F3" width="40%" />
-
-<img src="https://streak-stats.demolab.com?user=prashil0056&hide_border=true&background=0D1117&ring=FFD700&fire=DC143C&currStreakLabel=FFD700&sideLabels=F8F0F3&dates=8B8B8B" width="55%" />
-
+  <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
 </div>
 
 ---
 
-### 📫 reach me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashil-gajbhiye-714b10434)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashilgajbhiye007@gmail.com)
+### 🌟 Keep Learning • Keep Building • Keep Shipping 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:FFD700&height=100&section=footer" width="100%" />
 
 </div>
