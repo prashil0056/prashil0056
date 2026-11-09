@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Prashil Gajbhiye — First-year CSE, shipping to CNCF projects">
+  <defs>
+    <linearGradient id="pgBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1A0B0F"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="pgGold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DC143C"/>
+      <stop offset="50%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#DC143C"/>
+      <animate attributeName="x1" values="0;1;0" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="pgGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFD700" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <filter id="pgGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="pgClip">
+      <rect x="0" y="0" width="1200" height="320" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#pgClip)">
+    <rect width="1200" height="320" fill="url(#pgBg)"/>
+    <rect width="1200" height="320" fill="url(#pgGrid)"/>
+
+    <circle cx="1040" cy="70" r="150" fill="#DC143C" fill-opacity="0.10"/>
+    <circle cx="1120" cy="270" r="190" fill="#FFD700" fill-opacity="0.06"/>
+
+    <path d="M-50 260 C 200 200, 380 300, 640 240 S 1050 180, 1260 230"
+          fill="none" stroke="url(#pgGold)" stroke-opacity="0.35" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.15;0.45;0.15" dur="8s" repeatCount="indefinite"/>
+    </path>
+
+    <text x="72" y="128" fill="#F8F0F3" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="58" font-weight="700" letter-spacing="-1.5">Prashil Gajbhiye</text>
+
+    <text x="74" y="172" fill="#FFD700" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="19" font-weight="500" letter-spacing="0.4">
+      First-year CSE · Open-source contributor · Builder
+    </text>
+
+    <text x="74" y="208" fill="#C9C9C9" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="15" letter-spacing="0.2">
+      C++ · JavaScript · Python · Go &nbsp;|&nbsp; meshery/meshery · layer5io/layer5
+    </text>
+
+    <rect x="74" y="236" width="220" height="3" rx="1.5" fill="url(#pgGold)" filter="url(#pgGlow)">
+      <animate attributeName="width" values="140;260;140" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
