@@ -14,6 +14,10 @@
 <tr>
 <td width="65%" valign="top">
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=madrox-bit&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+
+
 ## 👨‍💻 About Me
 
 I'm a first-year CSE student at Mirai School of Technology, Bengaluru. I build things and ship small, tested changes to open-source projects — mostly documentation and tooling while I learn the deeper parts of the codebase.
