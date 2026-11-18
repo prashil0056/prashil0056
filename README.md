@@ -8,14 +8,14 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=madrox-bit&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+
 <!-- ================= ABOUT ME ================= -->
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=madrox-bit&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
 
 
 ## 👨‍💻 About Me
